@@ -1,4 +1,4 @@
-# Genius Lyrics Scraper
+# Song Lyrics Scraper
 Scrape song lyrics from https://genius.com.
 
 This project allows the user to scrape a certain number of songs from a specific artist.  
